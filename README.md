@@ -1,4 +1,4 @@
-# deepcraft_test
+# 株価予測モデル
 コードの実行方法
 
 1. 使用するデータ(stock_price.csv)を、trainee_last.ipynbと同じ場所に保存しておく
